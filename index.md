@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# cit281-lab3
 
-You can use the [editor on GitHub](https://github.com/devonacosta/cit281-lab3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Lab Goals and Objectives 
+1. Practice refactoring JavaScript code to use more modern syntax
+2. Practice destructuring an object
+3. Practice converting normal functions into arrow function expressions
+4. Examine using for..in  syntax with objects
+5. Practice using for..of syntax with arrays
+6. Practice creating a Node.js compatible code module using module.exports
+7. Practice importing a Node.js compatible code module using require
+8. Examine code using the spread operator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lab Deliverables 
+1. lab-03.js
+[lab-03.js](lab-03.js)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devonacosta/cit281-lab3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2. lab-03-module.js
+[lab-03-module.js](lab-03-module.js)
