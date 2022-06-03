@@ -11,8 +11,6 @@
 8. Examine code using the spread operator
 
 ### Lab Deliverables 
-1. lab-03.js
-[lab-03.js](lab-03.js)
+1. [lab-03.js](lab-03.js)
 
-2. lab-03-module.js
-[lab-03-module.js](lab-03-module.js)
+2. [lab-03-module.js](lab-03-module.js)
